@@ -1,4 +1,4 @@
-##Heart Disease Prediction System
+## Heart Disease Prediction System
 
 Heart Disease Prediction System is a data-driven application that analyzes clinical and demographic features to predict the risk of heart disease using machine learning models. The system supports data preprocessing, model training, evaluation, and real-time prediction through a web-based interface, enabling early risk assessment and decision support in healthcare.
 
